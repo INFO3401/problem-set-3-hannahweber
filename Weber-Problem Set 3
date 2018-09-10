@@ -1,0 +1,11 @@
+Hannah Weber
+Problem Set #3
+Due: Sept 16 @ 11:59pm
+
+Monday - 
+#1: The script creates a picture of a cat. Screenshot included in repository
+
+#2: 
+To download the package I used the command "pip install Delorean"
+
+After launching Python and following the commands it prints "Delorean(datetime=datetime.datetime(2018, 9, 10, 16, 41, 0, 643434), timezone='US/Eastern')"
