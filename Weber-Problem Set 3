@@ -10,7 +10,9 @@ To download the package I used the command "pip install Delorean"
 
 After launching Python and following the commands it prints "Delorean(datetime=datetime.datetime(2018, 9, 10, 16, 41, 0, 643434), timezone='US/Eastern')"
 
-#3, #4, #5: wget not working
+#3: wget http://www.colorado.edu
+
+#4, #5:
 
 Wednesday - 
 Dataset options:
