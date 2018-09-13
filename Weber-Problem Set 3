@@ -9,3 +9,28 @@ Monday -
 To download the package I used the command "pip install Delorean"
 
 After launching Python and following the commands it prints "Delorean(datetime=datetime.datetime(2018, 9, 10, 16, 41, 0, 643434), timezone='US/Eastern')"
+
+#3, #4, #5: wget not working
+
+Wednesday - 
+Dataset options:
+#1: Data of kids who attend group classes at the gym. Includes GPA, what classes they are, how often they go, and what is their favorite part of the classes.
+#2: Data of kids who do their own individual workouts at the gym. Includes GPA, what kind of exercises they do, how often they go, and what is their favorite part of working out.
+#3: Data of kids who don't go to the gym. Includes GPA, what they do outside of class, what are their hobbies, why they don't go to the gym. 
+
+CoNVO method:
+
+Context: How do we convince kids that an active lifestyle and regular gym use has a positive relationship with academic success?
+
+Needs:
+    - Does a student's activity level have any correlation to their GPA?
+    - Is there a significant difference between the GPA of students who go to the gym vs those that do not?
+    - Is there a correlation between the different uses of the gym and student GPA?
+    - Is there a correlation between a student's favorite part of the gym and GPA?
+    
+Vision: 
+    - Create an argument sketch so that you know what you need to say in order to gain the trust of the administration, students, gym staff, and other people who may be skeptical of the claim that regular attendence at the gym ends up helping students have success at school and maintain a higher GPA.
+    - Scenario development with a case study that shows how a student switching over to an active lifestyle has positively impacted their classroom performance.
+    - Brief prose about how certain group classes have helped the people that regularly attend them have higher GPAs. 
+
+Outcome: To find a connection between active students and regular gym use with success in the classroom. We can then advertise these findings to the students and ultimately help them to lead a more active lifestyle and to have more success in their education. This data can then be tracked regularly in order to find which programs help students succeed more, or if there are certain programs that help certain majors. 
