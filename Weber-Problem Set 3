@@ -14,7 +14,7 @@ After launching Python and following the commands it prints "Delorean(datetime=d
 File saved in repository.
 
 #4: grep -n Colorado index.html.1
-I think "Coloado" appeared in 16 lines on the site.
+I think "Coloado" appeared in 17 lines on the site.
 
 #5: (https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file)
 grep -n  Colorado index.html.1 > search_results.html
