@@ -42,3 +42,25 @@ Vision:
     - Brief prose about how certain group classes have helped the people that regularly attend them have higher GPAs. 
 
 Outcome: To find a connection between active students and regular gym use with success in the classroom. We can then advertise these findings to the students and ultimately help them to lead a more active lifestyle and to have more success in their education. This data can then be tracked regularly in order to find which programs help students succeed more, or if there are certain programs that help certain majors. 
+
+Friday - 
+Dataset #1: Titanic Dataset
+Problem- The ship is famous for sinking in 1912 and killing 1,503 passengers on board.
+Data Available - Some information about each passenger including name, sex, age, cabin, home destination, and whether they survived or not.
+Methods - Descriptive statistics, graphing, and statistical modeling
+Findings - Predictive analysis as to what the survivors of the wreck had in common as well as those that had died.
+What would I do different?: I would collect data on the ship itself and compare the data of the ship to others that were built at the time to see if any of that could have predicted what was to come. 
+
+Dataset #2: Arrhythmia Data Set 
+Problem - There were patients experiencing cardio arrhythmia
+Data Available - 279 attributes for 452 instances that contains information on age, sex, weight, heart rate, intrinsic deflections, and other medical data
+Methods - Machine learning and other statistical testing
+Findings - The goal is to use Machine Learning to distinguish between the presence and absence of cardiac arrhythmia and to classify it in one of the 16 groups
+What would I do different?: I don't know much about the health field or this topic but I think that working with a dataset that has 279 attributes is way too many and I would probably reduce that down to a more usuable number to help the program run faster and smoother
+
+Dataset #3: Social Structure of Facebook Networks Dataset
+Problem - Little was known about Facebook Networks in 2005 and they wanted to learn more about how people were using the site to connect.
+Data Available - Information on the user including gender, class year, major, high school, residence
+Methods - Machine Learning to create clusters, assortativity coefficients, and regression models
+Findings - They found a lot of interesting findings of how people connected through Facebook and what attributes of the user made them more likely to connect with other users. Two examples of findings given were "common high school is more important to the social organization of large institutions and that the importance of common major varies significantly between institutions"
+What would I do different?: I would run this same test with today's Facebook users because the pool of users vary a lot more today and I wonder if the same findings from 13 years ago would hold up.
